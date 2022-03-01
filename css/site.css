@@ -1,7 +1,14 @@
 ceci est un fichier css
 
+<<<<<<< HEAD
 .copyright
 {
 	color: red;
 	background-color: purple;
+=======
+.cssMenu
+{
+	text-color: white;
+	background-color: green;
+>>>>>>> c94d2e4 (ajout de couleurs au menu)
 }
